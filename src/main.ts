@@ -3,7 +3,7 @@ import './style.css'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 // App state
-let isLoggedIn = false
+// let isLoggedIn = false
 let userPhone = ''
 let balance = 1000.00
 let loanLimit = 50000.00
